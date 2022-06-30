@@ -4,20 +4,20 @@ options:
   shaped: true
 recipe:
   '1':
-    item: gold block
+    item: netherite ingot
   '2':
-    item: bone meal
+    item: elytra
   '3':
-    item: gold block
+    item: netherite ingot
   '4':
-    item: obsidian
+    item: diamond block
   '5':
-    item: fermented spider eye
+    item: totem of undying
   '6':
-    item: obsidian
+    item: diamond block
   '7':
-    item: diamond block
+    item: netherite ingot
   '8':
-    item: diamond block
+    item: elytra
   '9':
-    item: diamond block
+    item: netherite ingot
